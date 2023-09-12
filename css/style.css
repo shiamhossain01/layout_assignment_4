@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    height: 50px;
+    background-color: brown;
+    text-align: center;
+    color: white;
+    border-bottom: .5vh solid white;
+}
+
+.banner{
+    height: 200px;
+    background-color: rgb(73, 81, 26);
+    text-align: center;
+    color: white;
+    border-bottom: .5vh solid white;
+}
+.service{
+    height: 700px;
+    background-color: aquamarine;
+    display: flex;
+    border-bottom: .5vh solid white;
+}
+.left{
+    width: 40%;
+    background-color: rgb(32, 32, 54);
+    text-align: center;
+    color: white;
+    border-right: .5vh solid white;
+}
+.right{
+    width: 59%;
+    background-color: black;
+    text-align: center;
+    color: white;
+    border-bottom: .5vh solid white;
+    
+}
+.top{
+    height: 50%;
+    background-color: rgb(98, 255, 0);
+    text-align: center;
+    color: white;
+    display: flex;
+    border-bottom: .5vh solid white;
+
+}
+
+.left1{
+    width: 50%;
+    background-color: rgb(101, 70, 129);
+    text-align: center;
+    color: white;
+    border-right: .5vh solid white;
+
+}
+.right1{
+    width: 50%;
+    background-color: rgb(149, 49, 236);
+    text-align: center;
+    color: white;
+
+}
+
+
+
+.buttom{
+    height: 50%;
+    background-color: rgb(192, 106, 36);
+    text-align: center;
+    color: white;
+    display: flex;
+    /* border-bottom: .5vh solid white; */
+
+   
+
+}
+.left2{
+    width: 50%;
+    background-color: rgb(196, 67, 175);
+    text-align: center;
+    color: white;
+    border-right: .5vh solid white;
+
+}
+.right2{
+    width: 50%;
+    background-color: rgb(88, 163, 104);
+    text-align: center;
+    color: white;
+
+}
+
+footer{
+    height: 50px;
+    background-color: darkmagenta;
+    text-align: center;
+    color: white;
+}
